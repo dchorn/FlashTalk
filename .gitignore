@@ -1,0 +1,44 @@
+# Laravel
+/node_modules
+/vendor
+/.env
+/.env.*
+/.phpunit.result.cache
+/.phpunit.cache
+/.idea
+/.vscode
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/storage/*.key
+/.DS_Store
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+
+# Vue.js
+/dist
+/node_modules
+/npm-debug.log
+/.env
+/.env.local
+/.env.development
+/.env.test
+/.env.production
+/public/build
+
+# Redis
+# This is a sample Redis dump file, which can be ignored if not needed
+*.rdb
+
+# Laravel Echo Server
+/laravel-echo-server.json
+/server.js
+
+# Composer
+composer.phar
+composer.lock
+/vendor
+
