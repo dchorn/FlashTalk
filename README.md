@@ -23,7 +23,7 @@ Follow these steps to set up FlashChat locally:
 1. **Clone the repository**
 
     ```bash
-    git clone (FlashTalk)[https://github.com/dchorn/FlashTalk.git]
+    git clone [FlashTalk](https://github.com/dchorn/FlashTalk.git)
     ```
 
 2. **Install dependencies**
